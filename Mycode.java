@@ -41,9 +41,9 @@ public class Mycode {
         // char myLetter = 'A';
         // System.err.println(myLetter);
         //------------implicit/explicite--------
-        int count = 167;
-        byte byteConunt = (byte) count;
-        System.err.println(byteConunt);
+        // int count = 167;
+        // byte byteConunt = (byte) count;
+        // System.err.println(byteConunt);
 
     }
 
