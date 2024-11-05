@@ -23,7 +23,7 @@ public class Mycode {
     //    System.out.println(b);
     //    System.out.println(c);
     // }
-    public static void main(String[] args) {
+    // public static void main(String[] args) {
         // int age =26;
         // int aGe = 12;
         // int marks = 98;
@@ -45,6 +45,7 @@ public class Mycode {
         // byte byteConunt = (byte) count;
         // System.err.println(byteConunt);
 
-    }
+    // }
+
 
 }
